@@ -1,0 +1,1 @@
+basic movie review website that allows users to submit and view movie reviews. It uses Flask as the backend and MongoDB as the database to store the reviews. The front end is built with HTML, and the application handles CRUD operations (Create, Read, Update, Delete) for movie reviews.
